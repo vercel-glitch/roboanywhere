@@ -1,6 +1,4 @@
 import Link from "next/link";
-import Testimonials from "@/components/Testimonials";
-import { featuredTestimonials } from "@/data/testimonials";
 
 export const metadata = {
   title: "Features - RoboAnywhere SEO Automation Platform",
@@ -480,9 +478,6 @@ export default function Features() {
           </div>
         </div>
       </section>
-
-      {/* Testimonials */}
-      <Testimonials testimonials={featuredTestimonials} showRatings={true} />
 
       {/* CTA Section */}
       <section className="py-20 bg-gradient-to-r from-primary-600 to-accent-600">

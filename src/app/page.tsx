@@ -1,6 +1,4 @@
 import Link from 'next/link'
-import Testimonials from '@/components/Testimonials'
-import { homeTestimonials } from '@/data/testimonials'
 
 export default function Home() {
   const features = [
@@ -180,14 +178,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-      {/* Testimonials */}
-      <Testimonials 
-        testimonials={homeTestimonials} 
-        title="Trusted by SEO Professionals Worldwide"
-        subtitle="Join thousands of businesses and agencies that trust RoboAnywhere to automate their SEO processes and achieve better results."
-        showRatings={true}
-      />
 
       {/* CTA Section */}
       <section className="py-20 bg-gradient-to-r from-primary-600 to-accent-600">
