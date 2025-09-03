@@ -54,17 +54,7 @@ export default function Contact() {
         </svg>
       ),
     },
-    {
-      title: 'Address',
-      value: '123 Innovation Drive, Tech City, TC 12345',
-      href: '#',
-      icon: (
-        <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-        </svg>
-      ),
-    },
+
   ]
 
   return (
@@ -248,32 +238,6 @@ export default function Contact() {
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Map Section */}
-      <section className="py-16 bg-secondary-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-8">
-            <h2 className="text-3xl font-bold text-text-primary mb-4">
-              Visit Our Office
-            </h2>
-            <p className="text-text-secondary">
-              Located in the heart of Tech City, we&apos;re always happy to welcome visitors.
-            </p>
-          </div>
-          
-          {/* Map Placeholder */}
-          <div className="bg-secondary-200 rounded-lg h-96 flex items-center justify-center">
-            <div className="text-center text-text-secondary">
-              <svg className="w-16 h-16 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-              </svg>
-              <p className="text-lg font-medium">Interactive Map</p>
-              <p className="text-sm">Google Maps integration would be placed here</p>
             </div>
           </div>
         </div>
