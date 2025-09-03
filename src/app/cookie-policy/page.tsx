@@ -257,7 +257,7 @@ export default function CookiePolicy() {
             <div>
               <h2 className="text-2xl font-bold text-text-primary mb-4">7. Do Not Track Signals</h2>
               <p>
-                Some browsers include a "Do Not Track" feature. Currently, there is no industry standard 
+                Some browsers include a &ldquo;Do Not Track&rdquo; feature. Currently, there is no industry standard 
                 for how to respond to these signals. We do not currently respond to Do Not Track signals, 
                 but we are monitoring industry developments in this area.
               </p>
@@ -268,7 +268,7 @@ export default function CookiePolicy() {
               <p>
                 We may update this Cookie Policy from time to time to reflect changes in our practices 
                 or for other operational, legal, or regulatory reasons. We will notify you of any 
-                material changes by updating the "Last updated" date at the top of this policy.
+                material changes by updating the &ldquo;Last updated&rdquo; date at the top of this policy.
               </p>
             </div>
 

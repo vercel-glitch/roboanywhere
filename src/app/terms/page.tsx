@@ -29,8 +29,8 @@ export default function TermsOfService() {
             <div>
               <h2 className="text-2xl font-bold text-text-primary mb-4">1. Acceptance of Terms</h2>
               <p>
-                By accessing or using RoboAnywhere ("Service"), you agree to be bound by these Terms of Service 
-                ("Terms"). If you disagree with any part of these terms, you may not access the Service.
+                By accessing or using RoboAnywhere (&ldquo;Service&rdquo;), you agree to be bound by these Terms of Service 
+                (&ldquo;Terms&rdquo;). If you disagree with any part of these terms, you may not access the Service.
               </p>
               <p>
                 These Terms apply to all visitors, users, and others who access or use the Service.
@@ -108,7 +108,7 @@ export default function TermsOfService() {
                 <ul className="list-disc pl-6 space-y-2">
                   <li>Subscription fees are billed in advance on a monthly or annual basis</li>
                   <li>All fees are non-refundable except as expressly stated</li>
-                  <li>We may change our fees with 30 days' notice</li>
+                  <li>We may change our fees with 30 days&apos; notice</li>
                   <li>Failure to pay may result in account suspension or termination</li>
                 </ul>
                 
@@ -171,7 +171,7 @@ export default function TermsOfService() {
             <div>
               <h2 className="text-2xl font-bold text-text-primary mb-4">9. Disclaimers</h2>
               <p>
-                THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, 
+                THE SERVICE IS PROVIDED &ldquo;AS IS&rdquo; AND &ldquo;AS AVAILABLE&rdquo; WITHOUT WARRANTIES OF ANY KIND, 
                 WHETHER EXPRESS OR IMPLIED. WE DISCLAIM ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO:
               </p>
               <ul className="list-disc pl-6 space-y-2">
